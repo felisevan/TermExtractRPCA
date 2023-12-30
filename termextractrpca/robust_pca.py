@@ -11,8 +11,14 @@ def _singular_value_threshold(tau: float, M: Tensor) -> Tensor:
     return u @ _shrinkage(tau, sigma.diag()) @ v
 
 
-def robust_pca(M: Tensor, mu: float = None, lmd: float = None, delta: float = 1e-7, max_iter_pass: int = 500,
-               devices="cpu") -> tuple[Tensor, Tensor]:  # type: ignore
+def robust_pca(
+    M: Tensor,
+    mu: float = None,
+    lmd: float = None,
+    delta: float = 1e-7,
+    max_iter_pass: int = 500,
+    devices="cpu",
+) -> tuple[Tensor, Tensor]:  # type: ignore
     """Robust PCA
 
     Args:
@@ -37,8 +43,7 @@ def robust_pca(M: Tensor, mu: float = None, lmd: float = None, delta: float = 1e
     """
     if not mu:
         mu = (
-                torch.prod(torch.tensor(M.shape))
-                / (torch.tensor(4) * torch.norm(M, p=1))
+            torch.prod(torch.tensor(M.shape)) / (torch.tensor(4) * torch.norm(M, p=1))
         ).item()
 
     if mu <= 0:
@@ -46,7 +51,7 @@ def robust_pca(M: Tensor, mu: float = None, lmd: float = None, delta: float = 1e
 
     if not lmd:
         lmd = (
-                torch.tensor(1) / torch.sqrt(torch.max(torch.tensor(M.shape))).item()
+            torch.tensor(1) / torch.sqrt(torch.max(torch.tensor(M.shape))).item()
         ).item()
 
     L = torch.zeros_like(M, device=devices)
