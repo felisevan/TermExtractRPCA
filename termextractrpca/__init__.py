@@ -52,7 +52,7 @@ def vocab_count(file):
 
 
 if __name__ == "__main__":
-    with open("pg35.txt", encoding="utf-8") as f:
+    with open("../pg35_corpus.txt", encoding="utf-8") as f:
         data = f.read()
         out = get_keywords(data)
         print(out)
