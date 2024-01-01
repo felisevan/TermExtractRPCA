@@ -9,7 +9,7 @@ A Robust-PCA Approach for Term Extracting
 _Limited by the algorithm itself, we do not optimize Chinese, and the program can only process at the word level without
 considering the semantic level._
 
-Robust-pca is used from [HERE]("https://github.com/14MBD4/pytorch-RPCA")
+Robust-pca is used from <https://github.com/14MBD4/pytorch-RPCA>
 
 The corpus is translated from an article from website, and we have been authorized by the original author
 
