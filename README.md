@@ -27,11 +27,11 @@ The corpus is translated from an article from website, and we have been authoriz
 
 ``python main.py corpus_transformed.txt``
 
-**give out words with counts in the article*(with terms and corresponding values)***
+**give out words with counts in the article*(with terms and corresponding values)*
 
 ``python main.py corpus_transformed.txt vocab_count``
 
-**give out word-cloud figure*(with terms and corresponding values)***
+**give out word-cloud figure*(with terms and corresponding values)*
 
 ``python main.py corpus_transformed.txt word_cloud``
 
