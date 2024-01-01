@@ -1,0 +1,65 @@
+Discipline interviews 丨 Are you suitable for computer major?
+Professional presentation
+
+computer science and Technology
+
+
+
+
+It ’s time to fill in the college entrance examination again. When you make a choice that affects you at least four years, do you have enough understanding?
+
+This article was written by a senior computer science and technology major in a 211 college. From the perspective of a computer science classmate who has not been exposed to computer science, you can quickly learn about the computer major with you, making your volunteer more scientific, reasonable and more appropriate.
+What are computer science and technology majoring?
+
+      First look at the name "Computer Science and Technology" of this major. Although the word "science" is crowned, it is still attributed to the major category of "engineering" in my country's professional classification. In other words, this discipline focuses more on solving engineering problems in production and life, rather than doing some cutting -edge theoretical research.
+
+      Therefore, most students' employment positions are closely related to the project, and most of the engineering problems are often problems that have been encountered. Most of your jobs are to complete the needs, not to propose your originality. This is a feature of this discipline.
+
+      Because of this feature, the alternativeness of primary programmers is often called "copying and paste engineers".
+         In fact, it does not need us to repeat the invention of the wheels. We only need to "assemble".
+
+      This involves a concept "open source". For example, after my hard work, after my hard work day, night, diligence, and hard work, I wrote a code that can turn on the flash of mobile phones:
+        After experiencing such difficult and dangerous obstacles, the programmers will pass the difficult results to GitHub (a programmer community similar to the forum) to avoid the next programmer repeat the same mistakes and re -experience this difficult and dangerous obstruction.
+
+      The next programmer who develops "camera" does not need to rewrite this part of the program, which can directly use the results of the predecessors. Because the code is open source, anyone can browse your code. When your code has any bugs, other programmers who are helpful can also help you modify.
+            In other words, open source is the participation of everyone to create social benefits. In the end, everyone can benefit from it; and the spirit of open source is that open source spirit is that openness than closedness can greater general social benefits and put it into action.
+             Even if it is a few millisecond delay, a few seconds of the video waiting for them are optimizing them. This power is not contributed by one or two programmers, but a group of people who adhere to the technology to change the world together.
+
+      And what makes these people associated with companies, projects, regions, colleges, etc., but open source.
+
+      When that distant future, when the corner of the glory of the king will no longer have a delayed prompt, when the video is opened, there is no longer a circle of rotation, or even when the Steam does not need to have a download button, please do not forget, open source, open source source, open source, open source It is the driving force for technological progress.
+
+      So so far, let's return to the initial question. Are the programmers really "copy and paste" engineers? To some extent, this is indeed the case. But you can't deny that the technical leap forward of human beings is the technique of predecessors, and we are all standing on the shoulders of the giants.
+      What kind of classmates are suitable for learning computer?
+
+      It seems that there are a lot of "idealism" in front, but we are all "ourselves", so let us put down the natural pride of "cosmic machine (referring to computer majors)". Specific characteristics:
+
+          Love Sports: This job is like a taxi driver. You can "sit" for a day. There are no get out of class bells, no lessons between classes, so this year. No one pulls you to move, there is no exercise habit, and your body can't hold it.
+
+          You can tolerate silence: "People have seven emotions and six desires, and meat has five flowers and three layers." The desire to communicate is also human desire. But technical programmers often communicate with computers without communicating with others. Of course, if you want to rely on Hu Kan to release the pressure and happy mood, you must consider it.
+
+          Fighting alone: ​​Do n’t ask for yourself and learn by yourself. Do n’t ask others before you do n’t pinch your hair for a few hours.
+
+          Hand -hands ability: Starting from demand, thinking about how to achieve it, writing details in a line, and can gain a sense of accomplishment.
+
+          Continuous learning: In addition to the value of programmers, in addition to wages, it is learning and realization: If you learn new things that make you feel painful, you will have a lot of fun.
+
+          Clear logic (this can often be seen from the results of high school sciences):
+
+          Let me give another example:
+
+          "Give you two very large integers, how can you be relatively small?"
+
+          Some people say, "Take a look at the naked eye and know which one is big."
+
+          Others said: "Two numbers are aligned with right, and then one of the one from left" -to no rigorous explanation of how to compare and when to end.
+
+          Others said, "Several digits of these two numbers, the larger number of digits" -tmage
+
+          The programmer said: "First compare the digits, the size is larger; if the number is the same, the number of positions will be compared from the highest bit. If the size difference can be compared with the size, the larger side value is larger; The lowest position is the same, the two numbers are as big as ".
+
+        So this is the logic of "computer scientists" thinking.
+
+
+
+So far, do you know some of the computer majors? All choices are based on understanding, I hope you can make your choice more properly.

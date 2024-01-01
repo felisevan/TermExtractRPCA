@@ -1,0 +1,34 @@
+discipline interviews 丨 are you suitable for computer major
+professional presentation
+computer science and technology
+it s time to fill in the college entrance examination again when you make a choice that affects you at least four years do you have enough understanding
+this article was written by a senior computer science and technology major in a  college from the perspective of a computer science classmate who has not been exposed to computer science you can quickly learn about the computer major with you making your volunteer more scientific reasonable and more appropriate
+what are computer science and technology majoring
+      first look at the name computer science and technology of this major although the word science is crowned it is still attributed to the major category of engineering in my countrys professional classification in other words this discipline focuses more on solving engineering problems in production and life rather than doing some cutting edge theoretical research
+      therefore most students employment positions are closely related to the project and most of the engineering problems are often problems that have been encountered most of your jobs are to complete the needs not to propose your originality this is a feature of this discipline
+      because of this feature the alternativeness of primary programmers is often called copying and paste engineers
+         in fact it does not need us to repeat the invention of the wheels we only need to assemble
+      this involves a concept open source for example after my hard work after my hard work day night diligence and hard work i wrote a code that can turn on the flash of mobile phones
+        after experiencing such difficult and dangerous obstacles the programmers will pass the difficult results to github a programmer community similar to the forum to avoid the next programmer repeat the same mistakes and re experience this difficult and dangerous obstruction
+      the next programmer who develops camera does not need to rewrite this part of the program which can directly use the results of the predecessors because the code is open source anyone can browse your code when your code has any bugs other programmers who are helpful can also help you modify
+            in other words open source is the participation of everyone to create social benefits in the end everyone can benefit from it and the spirit of open source is that open source spirit is that openness than closedness can greater general social benefits and put it into action
+             even if it is a few millisecond delay a few seconds of the video waiting for them are optimizing them this power is not contributed by one or two programmers but a group of people who adhere to the technology to change the world together
+      and what makes these people associated with companies projects regions colleges etc but open source
+      when that distant future when the corner of the glory of the king will no longer have a delayed prompt when the video is opened there is no longer a circle of rotation or even when the steam does not need to have a download button please do not forget open source open source source open source open source it is the driving force for technological progress
+      so so far lets return to the initial question are the programmers really copy and paste engineers to some extent this is indeed the case but you cant deny that the technical leap forward of human beings is the technique of predecessors and we are all standing on the shoulders of the giants
+      what kind of classmates are suitable for learning computer
+      it seems that there are a lot of idealism in front but we are all ourselves so let us put down the natural pride of cosmic machine referring to computer majors specific characteristics
+          love sports this job is like a taxi driver you can sit for a day there are no get out of class bells no lessons between classes so this year no one pulls you to move there is no exercise habit and your body cant hold it
+          you can tolerate silence people have seven emotions and six desires and meat has five flowers and three layers the desire to communicate is also human desire but technical programmers often communicate with computers without communicating with others of course if you want to rely on hu kan to release the pressure and happy mood you must consider it
+          fighting alone do nt ask for yourself and learn by yourself do nt ask others before you do nt pinch your hair for a few hours
+          hand hands ability starting from demand thinking about how to achieve it writing details in a line and can gain a sense of accomplishment
+          continuous learning in addition to the value of programmers in addition to wages it is learning and realization if you learn new things that make you feel painful you will have a lot of fun
+          clear logic this can often be seen from the results of high school sciences
+          let me give another example
+          give you two very large integers how can you be relatively small
+          some people say take a look at the naked eye and know which one is big
+          others said two numbers are aligned with right and then one of the one from left to no rigorous explanation of how to compare and when to end
+          others said several digits of these two numbers the larger number of digits tmage
+          the programmer said first compare the digits the size is larger if the number is the same the number of positions will be compared from the highest bit if the size difference can be compared with the size the larger side value is larger the lowest position is the same the two numbers are as big as 
+        so this is the logic of computer scientists thinking
+so far do you know some of the computer majors all choices are based on understanding i hope you can make your choice more properly
