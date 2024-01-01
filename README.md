@@ -34,3 +34,7 @@ The corpus is translated from an article from website, and we have been authoriz
 **give out word-cloud figure*(with terms and corresponding values)***
 
 ``python main.py corpus_transformed.txt word_cloud``
+
+give out word-cloud figure based on the user's own choices or combination of results
+
+``python main.py self_word_cloud``

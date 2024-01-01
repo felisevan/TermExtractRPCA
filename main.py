@@ -7,6 +7,18 @@ if __name__ == "__main__":
     if len(sys.argv) == 1:
         raise IndexError("specified file or functions needed")
 
+    if 'self_word_cloud' in sys.argv and len(sys.argv) == 2:
+        word_weight_dict = {}
+        while True:
+            word = input("word input:（ 'qqq' to quit）: ")
+            if word.lower() == 'qqq':
+                break
+            weight = float(input("weight input: "))
+            word_weight_dict[word] = weight
+        print("word_weight_dict: ", word_weight_dict)
+        word_cloud(word_weight_dict)
+        exit()
+
     if len(sys.argv) > 2 and "corpus_transform" in sys.argv:
         out_name = input("the name of the output file: ")
         corpus_transform(sys.argv[1], out_name)
@@ -22,3 +34,4 @@ if __name__ == "__main__":
 
     if len(sys.argv) > 2 and "word_cloud" in sys.argv:
         word_cloud(out)
+        exit()
